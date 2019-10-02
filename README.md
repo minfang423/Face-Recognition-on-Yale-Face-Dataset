@@ -1,6 +1,6 @@
 # Face-Recognition-on-Yale-Face-Dataset
-I used Extend Yale Face Database to explore face recognition under 1 pose & 64 illuminations.
-The techniques that I implemented include PCA, KNN, SVM, and Convolution Neural Network (CNN). 
+Subset of the Extended Yale Face database B(11/12/13/15/16/17/18) contains 4166 images of 7 human subjects under 9 poses and 64 illumination conditions.
 
-Finally, recommendation after comparing the three algorithms regarding the test accuracy, and give the recommendation.
+try 3 different Face-recognition approaches: KNN, PCA, Convolutional Neural Network(CNN) to check their advantages and disadvantages under different scenarios.
+
 Data Resource: http://vision.ucsd.edu/~leekc/ExtYaleDatabase/ExtYaleB.html
